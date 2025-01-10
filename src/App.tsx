@@ -1,12 +1,13 @@
-import{Header} from "./components/Header"
-import{Footer} from "./components/Footer"
+import { BrowserRouter } from "react-router-dom";
+import { GlobalStyle } from "./styles/GlobalStyle";
+import { RouteSoftware } from "./routes";
+
 export function App() {
+
   return (
-    <>
-    <Header />
-    <h1>Olá React!</h1>
-    <Footer />
-    </>
+    <BrowserRouter>
+      <GlobalStyle />
+      <RouteSoftware />
+    </BrowserRouter>
   )
 }
-
