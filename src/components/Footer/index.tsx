@@ -2,7 +2,6 @@ import { SFooter } from "./styles"
 import Face from "../../assets/face.svg"
 import Insta from "../../assets/insta.svg"
 
-
 export function Footer() {
   return (
     <SFooter>
