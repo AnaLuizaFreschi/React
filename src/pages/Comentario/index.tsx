@@ -8,8 +8,8 @@ export function Comentario() {
       {dados.map(item => (
         <ComponentCard
           key={item.id}
-          data={item.data}
-          assunto={item.assunto}
+          endereco={item.endereco}
+          preferencias={item.preferencias}
           comentario={item.comentario}
         />
       ))}

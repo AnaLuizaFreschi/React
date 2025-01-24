@@ -41,7 +41,7 @@ export const SSection = styled.section`
       margin-top: 1rem;
       a {
         text-decoration: none;
-        color: ${colors.black};
+        color: ${colors.white};
         font-weight: bold;
       }
     }

@@ -1,32 +1,32 @@
 export const dados = [
     {
       id: 1,
-      data: "23/06/2023 07:00:00",
-      assunto: "Aula",
-      comentario: "Componentes"
+      endereco: "Rua Alves 210",
+      preferencias: "Livros de suspense",
+      comentario: "Boa livraria."
     },
     {
       id: 2,
-      data: "23/06/2023 07:10:00",
-      assunto: "Aula Web",
-      comentario: "Serviços"
+      endereco: "Rua Caxambu 376",
+      preferencias: "Livros de drama",
+      comentario: "Bom atendimento."
     },
     {
       id: 3,
-      data: "23/06/2023 07:20:00",
-      assunto: "Aula React",
-      comentario: "Rotas"
+      endereco: "Rua 13 de Março 554",
+      preferencias: "Livros de terror",
+      comentario: "Livros em bom estado."
     },
     {
       id: 4,
-      data: "23/06/2023 07:30:00",
-      assunto: "Aula React Web",
-      comentario: "Estilos"
+      endereco: "Rua Alex Fontana 21",
+      preferencias: "Livros de comédia romântica",
+      comentario: "Ambiente instagramável."
     },
     {
       id: 5,
-      data: "23/06/2023 07:30:00",
-      assunto: "Aula React Web",
-      comentario: "Estilos"
+      endereco: "Rua Bila Guimarães 16",
+      preferencias: "Livros de bibliografia",
+      comentario: "Livros antigos, bastante cultura e incentivo ao ensino da história."
     },
   ]
